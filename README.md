@@ -46,7 +46,7 @@ This app provides a front-end wrapper around Google’s Gemini-Pro generative AI
 1. **Clone the repo**  
 
    ```bash
-   git clone https://github.com/your-username/gemini-pro-chatbot.git
+   git clone https://github.com/vigneshv1cky/ChatBot.git
    cd gemini-pro-chatbot
    ```
 
